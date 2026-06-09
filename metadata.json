@@ -1,0 +1,6 @@
+{
+  "name": "MarketHub",
+  "description": "A high-fidelity modern SaaS Multi-Vendor E-Commerce Marketplace built with React, Tailwind, and Gemini AI search capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
